@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    height: 630px;
+    width: 630px;
+    background-color: rgb(108, 103, 108);
+    border: px solid rgb(23, 21, 21);
+    margin: 70px;
+}
+
+.Row{
+    height: 80px;
+    width: 630px;
+    background-color: rgb(225, 225, 225);
+    margin: 0px;
+}
+.white{
+    height: 80px;
+    width: 73px;
+    border: 1px solid rgb(23, 21, 21);
+    display: inline-block;
+    background-color:rgb(255, 255, 255);
+}
+
+.black{
+    height: 80px;
+    width: 73px;
+    border: 1px solid rgb(15, 13, 13);
+    display: inline-block;
+    background-color: rgb(12, 11, 11);
+}
